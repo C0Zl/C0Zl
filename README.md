@@ -23,6 +23,5 @@
 ## Contact 📞
 hyeee19@naver.com
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
