@@ -2,7 +2,7 @@
 <div align="center">
 
 ## Hi, I'm C0ZI 🖐️
-안녕하세요 :) 디테일한 개발자 이지혜입니다.</br>
+안녕하세요 :) 디테일한 신입 개발자 이지혜입니다.</br>
 웹 백엔드, 프론트엔드 개발 경험이 있으며 도전적인 성향을 가지고 있습니다.
 
 [codelog 📒 - 티스토리 블로그 바로가기](https://codingdialee.tistory.com/)
