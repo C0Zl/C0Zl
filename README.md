@@ -8,9 +8,6 @@
 [codelog 📒 - 티스토리 블로그 바로가기](https://codingdialee.tistory.com/)
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0zl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Skills & Tools 👀
 
